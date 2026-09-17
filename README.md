@@ -20,4 +20,4 @@ Ritag Hagori 446207392
 
 Tala Al-Mulaifi 445201301
 
-Dima Al-Otaibi 446203169
+Deema Al-Otaibi 446203169
