@@ -7,7 +7,7 @@ This project aims to analyze adult income data using machine learning techniques
 The classification task aims to predict whether an individual's annual income is
 less than or equal to $50,000 or more than $50,000, based on various demographic, educational, and employment-related characteristics.
 
-The grouping task aims to group individuals with similar characteristics
+The clustering task aims to group individuals with similar characteristics
 and identify patterns within the dataset.
 
 ## Motivation
